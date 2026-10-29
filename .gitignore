@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.uf2
+*.hex
+*.bin
+.build/
+__pycache__/
+*.swp
+*.swo
+*~
